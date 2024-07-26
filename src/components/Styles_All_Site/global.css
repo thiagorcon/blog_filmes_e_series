@@ -1,0 +1,12 @@
+:root{
+     --color-white : white;
+     --color-red : red;
+     --color-black : black;
+     --color-white : green;
+     --color-white : gray;
+
+}
+
+body{
+     --color-lightGray : #D3D3D3;
+}
